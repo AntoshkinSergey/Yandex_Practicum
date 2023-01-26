@@ -1,5 +1,6 @@
 # Yandex_Practicum
 My learning Yandex Practicum projects
+
 Репозиторий учебных проектов по специальносити "Аналитик данных"
 
 
